@@ -20,7 +20,7 @@ npm run build
 
 ## Build settings
 
-Backed url:
+Backend url:
 
 ``` bash
 

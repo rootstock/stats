@@ -132,7 +132,7 @@ export default {
     threshold: 'hashes'
   },
   gasPrice: {
-    title: 'gas price',
+    title: 'avg gas price',
     icon: 'cube',
     cssClass: 'big-number',
     filters: 'wei'
